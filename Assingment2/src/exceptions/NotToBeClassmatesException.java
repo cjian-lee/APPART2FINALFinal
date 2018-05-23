@@ -1,5 +1,9 @@
 package exceptions;
 
-public class NotToBeClassmatesException {
+public class NotToBeClassmatesException extends Exception {
+
+	public NotToBeClassmatesException(String msg) {
+		super(msg);
+	}
 
 }

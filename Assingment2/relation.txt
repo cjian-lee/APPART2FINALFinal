@@ -1,0 +1,8 @@
+Alex Smith, Ben Turner, partner
+Alex Smith, Hannah White, dependent
+Ben Turner, Hannah White, dependent
+Mark Bourne, Zoe Foster, partner
+Mark Bourne, James Bond, dependent
+Zoe Foster, James Bond, dependent
+Alex Smith, Rachel Zane, friend
+John Smith, Ben Turner, colleague

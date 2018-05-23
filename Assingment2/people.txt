@@ -1,0 +1,8 @@
+Alex Smith, , student at RMIT, M, 21, WA
+Ben Turner, BenPhoto.jpg, manager at Coles, M, 35, VIC
+Zoe Foster, , Founder of ZFX, F, 28, VIC
+Mark Bourne, bourne.jpg, fighting, M, 30, VIC
+James Bond, 007.jpg, spy stuff, M, 16, SA
+Hannah White, Hannah.png, student at PLC, F, 14, VIC
+John Smith, smith.jpg, working, M, 25, VIC
+Rachel Zane, princess.jpg, getting married, F, 28, VIC
